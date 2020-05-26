@@ -37,8 +37,8 @@ This book is for Computer Vision Engineers, and machine learning developers who 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-| 1 | Samba 4.x Server Software | Windows |
+| ------- | ------------------------------------------------ | ----------------------------------- |
+| 1-9     | Python 3.5+ (Anaconda prefered), GPU recommended | Windows / Linux (Ubuntu)            |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
